@@ -1,5 +1,10 @@
 # COVID-19_CT_Scan_Classification
 
+## Abstract
+
+We built a deep learning model to classify CT scan images to COVID and non-COVID. The training accuracy is around 91%.
+
+
 ![image](https://github.com/ayyucedemirbas/COVID-19_CT_Scan_Classification/blob/main/image.png)
 
 
