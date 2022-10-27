@@ -4,6 +4,8 @@
 
 We built and trained a deep learning model to classify CT scan images to COVID and non-COVID. We get 94% accuracy for the test set.
 
+Please do not try to work on this project. It was a fucking school assignment and they only provided almost 2000 images and asked us to train a model from completely scratch. So models tend to overfit because of insufficient data.
+
 
     Model: "model"
     _________________________________________________________________
